@@ -4,6 +4,7 @@
 Talking about my self:
 
 - SkypeAddress : live:.cid.92a4facf3ae21479
+- Email : epicdeveloper928@gmail.com
 - NickName: Jennis ( Senior Full Stack Developer | Web & Mobile ).<br>
 - Over 6 years of extensive experience in Web, Mobile Development 
 <img align="right" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
