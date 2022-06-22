@@ -1,7 +1,7 @@
-## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> Let's always make perfect result!
+## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> I'm always ready to start. <img href="https://join.skype.com/invite/uwd5zwVdnG8M" height="60" width="240" src="https://mgangashoprestaurantfood.files.wordpress.com/2020/01/click-here.gif" />
 
 
-Talking about my self: <img height="30" width="120" src="https://mgangashoprestaurantfood.files.wordpress.com/2020/01/click-here.gif" />
+Talking about my self: 
 
 - NickName: Jennis ( Senior Full Stack Developer | Web & Mobile ).<br>
 - Over 6 years of extensive experience in Web, Mobile Development 
