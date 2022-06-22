@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> I'm always ready to start. <img href="https://join.skype.com/invite/uwd5zwVdnG8M" height="60" width="240" src="https://mgangashoprestaurantfood.files.wordpress.com/2020/01/click-here.gif" />
+## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> I'm always ready to start. [<img height="60" width="240" src="https://mgangashoprestaurantfood.files.wordpress.com/2020/01/click-here.gif" />](https://join.skype.com/invite/uwd5zwVdnG8M)
 
 
 Talking about my self: 
