@@ -13,6 +13,8 @@ Talking about my self:
 
 As a full-stack engineer, I have been developing software products for many years with a focus on improving the quality.<br>
 
+<img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=epicdeveloper0928&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" /> 
+
 ##
 ##### My coding style
 - **[ Componentization | Modular | Reusable | Efficient ]**
