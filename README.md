@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> Let's try hard and hard to make better world!
+## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> I'm working at home! Seeking new and exciting project!
 
 
 Talking about my self: 
