@@ -11,6 +11,8 @@ Talking about my self:
 ⭐ Implement algorithms and solve system related problems.<br>
 ⭐ Build and maintain an optimized database.<br>
 
+I want to work with Agile / Scrum team!
+
 <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=epicdeveloper0928&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" /> 
 
 ##
