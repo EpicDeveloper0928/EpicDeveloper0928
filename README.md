@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> I'm working at home! Seeking new and exciting project!
+## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> Seeking new and exciting project!
 
 
 Talking about my self: 
@@ -10,8 +10,6 @@ Talking about my self:
 ⭐ Integrate RESTful & third-party API perfectly<br>
 ⭐ Implement algorithms and solve system related problems.<br>
 ⭐ Build and maintain an optimized database.<br>
-
-As a full-stack engineer, I have been developing software products for many years with a focus on improving the quality.<br>
 
 <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=epicdeveloper0928&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" /> 
 
