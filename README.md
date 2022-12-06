@@ -22,8 +22,6 @@ I want to work with Agile / Scrum team!
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
 - [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
 
-<img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=epicdeveloper0928&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" /> 
-
 ##
 ##### My skills
 
