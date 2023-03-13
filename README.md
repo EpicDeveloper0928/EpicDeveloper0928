@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> Seeking new and exciting project!
+## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> Focusing 🚀🚀🚀
 
 
 Talking about my self: 
