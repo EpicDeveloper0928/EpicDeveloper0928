@@ -21,13 +21,6 @@ I want to work with Agile / Scrum team!
 ##### My mission
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
 - [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/pwa.png"></code>
-<code><img height="35" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <br><br>
 </details>
 
