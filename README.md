@@ -3,7 +3,6 @@
 
 Talking about my self: 
 
-- Over 6 years of extensive experience in Web, Mobile Development 
 <img align="right" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 - My specialization:<br> 
 ⭐ Implement pixel perfect and responsive UI from design (Mockup, XD, Photoshop, Figma etc)<br>
