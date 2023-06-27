@@ -10,8 +10,6 @@ Talking about my self:
 ⭐ Implement algorithms and solve system related problems.<br>
 ⭐ Build and maintain an optimized database.<br>
 
-I want to work with Agile / Scrum team!
-
 ##
 ##### My coding style
 - **[ Clean | Componentization | Modular | Reusable | Efficient ]**
