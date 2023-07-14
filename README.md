@@ -3,7 +3,7 @@
 
 Talking about my self: 
 
-<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" />
+<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="300" height="300" />
 
 Hello, and welcome to my profile👋
 <br />
