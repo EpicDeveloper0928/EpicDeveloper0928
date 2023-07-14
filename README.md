@@ -3,7 +3,7 @@
 
 Talking about my self: 
 
-<img align="right" width="350" src="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G" />
+<img align="right" width="350" src="https://giphy.com/embed/26DoiqmYcxgFICb3G" />
 
 Hello, and welcome to my profile👋
 <br />
