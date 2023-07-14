@@ -4,11 +4,27 @@
 Talking about my self: 
 
 <img align="right" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-- My specialization:<br> 
-⭐ Implement pixel perfect and responsive UI from design (Mockup, XD, Photoshop, Figma etc)<br>
-⭐ Integrate RESTful & third-party API perfectly<br>
-⭐ Implement algorithms and solve system related problems.<br>
-⭐ Build and maintain an optimized database.<br>
+✨ Web Application Development:
+✔ Custom web application development tailored to your specific business needs.
+✔ Responsive designs that work seamlessly across different devices.
+✔ Integration of third-party APIs for enhanced functionality.
+
+✨ API Development:
+✔ Designing and developing robust RESTful APIs using modern frameworks.
+✔ Ensuring security measures are implemented to protect sensitive data.
+
+✨ Database Management:
+✔ Efficiently designing database schemas that optimize performance and scalability.
+✔ Implementing data migration strategies when necessary.
+
+✨ Deployment & DevOps:
+✔ Deploying applications on cloud platforms like AWS or Heroku for high availability.
+✔ Setting up continuous integration/delivery pipelines using tools like Jenkins or Travis CI.
+
+✨ Maintenance & Support:
+✔ Providing ongoing maintenance services to ensure the smooth operation of your applications.
+✔ Debugging and resolving issues promptly to minimize downtime.
+
 
 ##
 ##### My coding style
