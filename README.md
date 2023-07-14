@@ -9,7 +9,7 @@ Hello, and welcome to my profile👋
 😎I am a highly skilled and experienced Senior Full Stack Developer with expertise in both frontend and backend technologies😉
 With over 6 years of professional experience, I have successfully delivered numerous projects for clients worldwide👍
 
-💻 Technical Skills:
+💻 Technical Skills: <br />
 ✔ Frontend Development: HTML5, CSS3, JavaScript (ES6+), React / Next.js / Gatsby.js, Angular <br />
 ✔ Backend Development: Node.js / Express.js, Python / Django <br />
 ✔ Database Technologies: MongoDB, MySQL / PostgreSQL <br />
