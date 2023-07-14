@@ -4,6 +4,20 @@
 Talking about my self: 
 
 <img align="right" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+Hello, and welcome to my profile👋
+
+😎I am a highly skilled and experienced Senior Full Stack Developer with expertise in both frontend and backend technologies😉
+With over 6 years of professional experience, I have successfully delivered numerous projects for clients worldwide👍
+
+💻 Technical Skills:
+**✔ Frontend Development: HTML5, CSS3, JavaScript (ES6+), React / Next.js / Gatsby.js, Angular
+**✔ Backend Development: Node.js / Express.js, Python / Django
+**✔ Database Technologies: MongoDB, MySQL / PostgreSQL
+**✔ Serverless Architecture: AWS Lambda Functions
+**✔ Version Control Systems: Git / GitHub / Bitbucket
+
+⚙ Key Services Offered:
+
 ✨ Web Application Development:
 ✔ Custom web application development tailored to your specific business needs.
 ✔ Responsive designs that work seamlessly across different devices.
@@ -25,17 +39,10 @@ Talking about my self:
 ✔ Providing ongoing maintenance services to ensure the smooth operation of your applications.
 ✔ Debugging and resolving issues promptly to minimize downtime.
 
+I take pride in delivering high-quality code while adhering to best practices and industry standards throughout the development process. I believe in clear communication, collaboration with clients/stakeholders at all times so as deliver exactly what they envision!
+If you are looking for a reliable full stack developer who can bring your ideas to life efficiently and effectively, look no further. I am confident that my skills and experience make me a perfect fit for your project. Let's discuss your requirements in detail and make your vision a reality!
 
-##
-##### My coding style
-- **[ Clean | Componentization | Modular | Reusable | Efficient ]**
-
-##
-##### My mission
-- **[ Perfect result | Best Quality |  On-time Delivery ]**
-- [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
-<br><br>
-</details>
+Sincerely.
 
 ##
 ##### GitHub status
