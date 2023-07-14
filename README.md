@@ -10,11 +10,11 @@ Hello, and welcome to my profile👋
 With over 6 years of professional experience, I have successfully delivered numerous projects for clients worldwide👍
 
 💻 Technical Skills:
-**✔ Frontend Development: HTML5, CSS3, JavaScript (ES6+), React / Next.js / Gatsby.js, Angular
-**✔ Backend Development: Node.js / Express.js, Python / Django
-**✔ Database Technologies: MongoDB, MySQL / PostgreSQL
-**✔ Serverless Architecture: AWS Lambda Functions
-**✔ Version Control Systems: Git / GitHub / Bitbucket
+**✔ Frontend Development: HTML5, CSS3, JavaScript (ES6+), React / Next.js / Gatsby.js, Angular**
+**✔ Backend Development: Node.js / Express.js, Python / Django**
+**✔ Database Technologies: MongoDB, MySQL / PostgreSQL**
+**✔ Serverless Architecture: AWS Lambda Functions**
+**✔ Version Control Systems: Git / GitHub / Bitbucket**
 
 ⚙ Key Services Offered:
 
