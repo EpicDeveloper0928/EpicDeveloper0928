@@ -3,7 +3,8 @@
 
 Talking about my self: 
 
-<iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" />
+
 Hello, and welcome to my profile👋
 <br />
 😎I am a highly skilled and experienced Senior Full Stack Developer with expertise in both frontend and backend technologies😉
