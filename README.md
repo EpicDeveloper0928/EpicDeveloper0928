@@ -3,7 +3,8 @@
 
 Talking about my self: 
 
-<img align="right" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+<img align="right" width="350" src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/embed/26DoiqmYcxgFICb3G)" />
+
 Hello, and welcome to my profile👋
 <br />
 😎I am a highly skilled and experienced Senior Full Stack Developer with expertise in both frontend and backend technologies😉
