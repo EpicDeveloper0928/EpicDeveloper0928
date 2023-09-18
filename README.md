@@ -7,7 +7,7 @@ Talking about my self:
 
 Hello,
 
-I have been involved in passionate programming ventures for 10+ years now, and my enjoyment in helping others haven't diminished a bit, on the contrary, the more technologies I work with, the more excited I get on conquering new challenges and goals.
+I have been involved in passionate programming ventures for 7+ years now, and my enjoyment in helping others haven't diminished a bit, on the contrary, the more technologies I work with, the more excited I get on conquering new challenges and goals.
 
 I specialize in web development, systems integrations, database systems, workflow automations and process optimizations, and also have a very good understanding of business analysis as well as solution architecture and design.
 
