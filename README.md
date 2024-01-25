@@ -16,6 +16,7 @@ I have worked on SaaS products, Marketplaces, Healthcare, Insurance, Travel Port
 Technologies I can help with:
 
 - React: Redux & RTK, Mobx, Hooks, Gatsby.js, Next.js, React-Hook-Form, Formik, React Query, RTK Query
+- Angular: Angular 10+, Angular Material, Rxjs, NgRx, 
 - React Native
 - Backend: Node.js, Express.js, Laravel
 - Database: MySQL, MongoDB, Postgres
