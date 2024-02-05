@@ -33,10 +33,3 @@ Make no mistake, I have been developing for a LONG time and you can trust I'll g
 Cheers and looking forward to hearing from you,
 
 ##
-##### GitHub status
-<p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epicdeveloper0928&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicdeveloper0928&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</p>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
