@@ -1,9 +1,6 @@
 ## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> Focusing 🚀🚀🚀
 
-
 Talking about my self: 
-
-<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="300" height="300" />
 
 Hello,
 
