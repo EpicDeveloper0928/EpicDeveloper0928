@@ -10,11 +10,11 @@
 
 ### Technologies I can help with:
 
-### - React: Redux & RTK, Mobx, Hooks, Gatsby.js, Next.js, React-Hook-Form, Formik, React Query, RTK Query
-### - Angular: Angular 10+, Angular Material, Rxjs, NgRx, 
-### - React Native
-### - Backend: Node.js, Express.js, Laravel
-### - Database: MySQL, MongoDB, Postgres
+### - React / Next.js - TypeScript, Redux & RTK, Hooks
+### - Angular 10+, Angular Material, Rxjs, NgRx, 
+### - React Native, Mobx
+### - Backend: Node.js / Express.js, PHP / Laravel
+### - Database: MySQL, MongoDB, PostgreSQL
 ### - UI Frameworks:  Tailwind CSS, Bootstrap, Material UI, Kendo UI, Semantic UI,
 ### - Cloud Services:
 ### AWS: EC2, S3, Lambda, Elastic Beanstalk, DynamoDB, Cognito
