@@ -1,5 +1,6 @@
 ## <img height="60" width="60" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" /> Focusing 🚀🚀🚀
 
+<p style="font-size: 20px;">
 Hello,
 
 I have been involved in passionate programming ventures for 7+ years now, and my enjoyment in helping others haven't diminished a bit, on the contrary, the more technologies I work with, the more excited I get on conquering new challenges and goals.
@@ -26,5 +27,7 @@ Firebase: Firestore, Real-time Database, Hosting, Cloud functions, Crashlytics, 
 Make no mistake, I have been developing for a LONG time and you can trust I'll get the job done right.
 
 Cheers and looking forward to hearing from you,
+  
+</p>
 
 ##
