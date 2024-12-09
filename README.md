@@ -1,1 +1,1 @@
-## Just say thank you. ( Who don't like that 😄)
+## Just show your favor. ( Who don't like that 😄)
