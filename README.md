@@ -1,2 +1,2 @@
 ## Just show your favor. ( Who don't like that 😄)
-### Full stack developer | Mobile & Web expert | Threejs & Animation Enthusiast.
+### Don't know which industry I should focus on. But good experience in SaaS and hybrid mobile app building...
